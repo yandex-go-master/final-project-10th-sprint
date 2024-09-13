@@ -7,7 +7,7 @@
 #   dir3
 #       dir4
 
-mkdir -p task/{dir1,dir2,dir3}
+mkdir -p task/{dir1,dir2,dir3/dir4}
 mkdir task/dir3/dir4
 
 # изменяем текущую директорию на task
